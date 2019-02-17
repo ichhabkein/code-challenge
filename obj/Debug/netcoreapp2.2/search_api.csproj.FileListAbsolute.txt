@@ -1,0 +1,14 @@
+/home/test/Desktop/search_api/bin/Debug/netcoreapp2.2/search_api.deps.json
+/home/test/Desktop/search_api/bin/Debug/netcoreapp2.2/search_api.runtimeconfig.json
+/home/test/Desktop/search_api/bin/Debug/netcoreapp2.2/search_api.runtimeconfig.dev.json
+/home/test/Desktop/search_api/bin/Debug/netcoreapp2.2/search_api.dll
+/home/test/Desktop/search_api/bin/Debug/netcoreapp2.2/search_api.pdb
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.csprojAssemblyReference.cache
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.csproj.CoreCompileInputs.cache
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.RazorAssemblyInfo.cache
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.RazorAssemblyInfo.cs
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.AssemblyInfoInputs.cache
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.AssemblyInfo.cs
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.RazorTargetAssemblyInfo.cache
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.dll
+/home/test/Desktop/search_api/obj/Debug/netcoreapp2.2/search_api.pdb
