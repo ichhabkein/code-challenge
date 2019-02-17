@@ -42,5 +42,10 @@ We cheat and serialize the media paramter when using the ui to view the data in 
 
 Tests:
 
+None at the moment.
 
+
+Running:
+
+In the root of the project directory, "dotnet run".  Then go to the URLs as above for ponies and kittens.
 
